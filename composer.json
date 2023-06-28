@@ -1,0 +1,19 @@
+{
+    "name": "sevenspan/bunny",
+    "description": "Bunnynet api connect.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sevenspan\\Bunny\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "champak-7span",
+            "email": "champak@7span.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
